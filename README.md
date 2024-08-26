@@ -5,7 +5,7 @@
 <h1 style="font-style:italic;font-family:Josefin Sans,sans-serif";> 
 
     “Every failure teaches a man something, if he will learn”
-                                                    -Charles Dickens
+                            -Charles Dickens
 </h1>
 
 <div>

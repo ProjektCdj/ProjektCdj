@@ -10,8 +10,8 @@
 
 <div>
     <a href="https://github.com/ProjektCdj">
-    <img align="middle"  loading="lazy" height="160em" alt=" Status Card" src="https://github-readme-stats.vercel.app/api?username=ProjektCdj&hide_title=true&hide=contribs&rank_icon=github&show_icons=true&theme=transparent&text_color=011&card_width=10&icon_color=f139&ring_color=fc0000&text_bold=true&border_color=011&include_all_commits=true&count_private=true&referLogin=false&"/>
-    <img align="middle" loading="lazy" height="300em" alt="Languages ​​Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjektCdj&layout=donut&langs_count=7&theme=transparent&text_color=011&border_color=011&height=px&hide_title=true"/>
+    <img align="middle"  loading="lazy" height="160em" alt=" Status Card" src="https://github-readme-stats.vercel.app/api?username=ProjektCdj&hide_title=true&hide=contribs&rank_icon=github&show_icons=true&theme=transparent&text_color=808080&card_width=10&icon_color=fc8888&ring_color=fc8888&text_bold=true&border_color=011&include_all_commits=true&count_private=true&referLogin=false&"/>
+    <img align="middle" loading="lazy" height="300em" alt="Languages ​​Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjektCdj&layout=donut&langs_count=7&theme=transparent&text_color=808080&border_color=011&height=px&hide_title=true"/>
 </div>   
 
 ***

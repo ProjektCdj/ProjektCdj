@@ -7,8 +7,9 @@
 <h1 style="font-style:italic;font-family:Josefin Sans,sans-serif";> 
 
     “Every failure teaches a man something, if he will learn”
-                                                    -Charles Dickens
+                                        -Charles Dickens
 </h1>
+
 
 
 <div>
@@ -19,9 +20,9 @@
 
 <div>
 
-<h2 align="center" style="font-family:monaco,Consolas,Lucida Console,monospace; font-size:3em; ">
+<h2 style="font-family:monaco,Consolas,Lucida Console,monospace; font-size:3em; ">
                 
-    🗂️ Back-Ending
+                                              🗂️ Back-Ending
 </span></h2> 
 
 

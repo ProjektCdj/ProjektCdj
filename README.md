@@ -17,21 +17,3 @@
     <img align="middle" loading="lazy" height="300em" alt="Languages ​​Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjektCdj&layout=donut&langs_count=7&theme=transparent&text_color=808080&border_color=011&height=px&hide_title=true"/>
 </div>   
 
-<div>
-
-<h2 style="font-family:monaco,Consolas,Lucida Console,monospace; font-size:3em; ">
-                
-                                        🗂️ Back-Ending
-</span></h2> 
-
-
-***
-> <h4  style="font-family:monaco,Consolas,Lucida Console,monospace; font-size:3em"> > Working/Learning </h4>
-
-***
-   
-<a href="https://skillicons.dev"> 
-
-<img src="https://skillicons.dev/icons?i=git,django,nodejs,python,aws,"/> </a>
-
-</div>

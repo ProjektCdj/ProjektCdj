@@ -8,11 +8,3 @@
 
     “𝓟𝓻𝓸 𝓘𝓶𝓹𝓮𝓻𝓪𝓽𝓸𝓻𝓮 𝓮𝓽 𝓢𝓪𝓷𝓰𝓾𝓲𝓷𝓲𝓸!”
 </h1>
-
-
-
-<div>
-    <a href="https://github.com/ProjektCdj">
-    <img align="middle" loading="lazy" height="300em" alt="Languages ​​Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjektCdj&layout=donut&langs_count=7&theme=transparent&text_color=808080&border_color=011&height=px&hide_title=true"/>
-</div>   
-

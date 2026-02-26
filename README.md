@@ -6,8 +6,7 @@
 
 <h1 style="font-style:italic;font-family:Josefin Sans,sans-serif";> 
 
-    “Every failure teaches a man something, if he will learn”
-                                        -Charles Dickens
+    “𝓟𝓻𝓸 𝓘𝓶𝓹𝓮𝓻𝓪𝓽𝓸𝓻𝓮 𝓮𝓽 𝓢𝓪𝓷𝓰𝓾𝓲𝓷𝓲𝓸!”
 </h1>
 
 
